@@ -1,0 +1,42 @@
+Paragraph_ID,Paragraph_Text,Character_Mentions,Location,Has_Dialogue,Word_Count,Description
+1,"""Off with her head!"" The Queen of Hearts' voice thundered across the croquet grounds, causing the flamingos to quiver and the hedgehogs to curl tightly into balls.","Queen of Hearts","croquet grounds",1,26,Outburst
+2,"Alice watched from behind a rose bush, which three gardeners were frantically painting red. She had wandered into Wonderland once again, but this time something was different. The air crackled with tension, like the moment before a storm.","Alice","rose bush, Wonderland",0,43,Observation
+3,"""Your Majesty,"" whispered the White Rabbit, his pocket watch trembling in his paw, ""the Queen of Spades has crossed our borders.""","White Rabbit, Queen of Spades","Unknown",1,20,Warning
+4,"The Queen of Hearts grew still, her face reddening to match her crown. ""She dares?"" she hissed. ""After our agreement to stay in our respective kingdoms?""","Queen of Hearts","Unknown",1,23,Indignation
+5,"Alice knew little of card kingdom politics, but even she understood the gravity of the situation. In Wonderland, territories were strictly defined—Hearts ruled with passion and impulse, Diamonds with wealth and status, Clubs with wisdom and strength, and Spades with strategy and cunning.","Alice","Wonderland",0,46,Worldbuilding
+6,"""A Heart Attack,"" mumbled the Duchess, who had appeared beside Alice. ""That's what they call it when the Heart kingdom launches an offensive.""","Alice, Duchess","Unknown",1,23,Explanation
+7,"""I thought a heart attack was a medical condition,"" Alice replied, confused.","Alice","Unknown",1,12,Confusion
+8,"The Duchess cackled. ""Everything means what I choose it to mean, child. And here, a Heart Attack means war.""","Duchess","Unknown",1,18,Wordplay
+9,"The Queen of Hearts raised her scepter. ""Summon my card soldiers! The tens through aces! We shall launch a Heart Attack immediately!""","Queen of Hearts","Unknown",1,20,Declaration
+10,"Within minutes, the garden transformed into a war room. Playing cards of various ranks stood at attention, their heart symbols gleaming in the strange Wonderland sun. The Queen addressed her troops, her crown tilting dangerously with each emphatic nod.","Queen of Hearts","garden, Wonderland",0,42,Mobilization
+11,"""The Queen of Spades believes she can outwit us with her clever strategies and calm demeanor,"" she spat. ""But what is logic against passion? What is planning against fury? We will show her why they fear a Heart Attack above all else!""","Queen of Hearts, Queen of Spades","Unknown",1,41,Rallying
+12,"The Cheshire Cat materialized on a nearby branch, his grin preceding the rest of him. ""Curious,"" he purred. ""The last time two queens quarreled, half of Wonderland vanished for a fortnight. I wonder which half it will be this time?""","Cheshire Cat","Wonderland",1,36,Foreboding
+13,"Alice couldn't help but interject. ""But why must you attack at all? Perhaps you could talk to the Queen of Spades?""","Alice, Queen of Spades","Unknown",1,21,Reasoning
+14,"The Queen of Hearts turned to Alice, her eyes bulging. ""Talk? TALK? Did Napoleon talk to Wellington? Did the Jabberwock talk to the Vorpal Blade? This is WONDERLAND, child!""","Queen of Hearts, Alice","Wonderland",1,27,Dismissal
+15,"The Mad Hatter, who had been hiding under a tea table all this time, popped up. ""It's always tea time during a Heart Attack! The adrenaline, you know. Makes everything taste better!"" He took a sip from a cracked cup and grimaced. ""Except the tea, of course.""","Mad Hatter","tea table",1,44,Absurdity
+16,"As the card army began their march toward the border of Spade territory, Alice followed cautiously behind. The landscape shifted from the lush gardens of Heart domain to the more methodical patterns of Spade lands. Everything here seemed planned—even the wildflowers grew in neat rows.","Alice","Spade territory, garden",0,42,Transition
+17,"At the center of a perfectly circular clearing stood the Queen of Spades, surrounded by her own soldiers. Unlike the Queen of Hearts' chaotic entourage, these cards stood in precise formation, their expressions calculating.","Queen of Spades, Queen of Hearts","clearing",0,31,Contrast
+18,"""So,"" said the Queen of Spades, her voice cool as a midnight garden. ""You've come to throw one of your famous tantrums, sister?""","Queen of Spades","garden",1,21,Condescension
+19,"""This is no tantrum!"" roared the Queen of Hearts. ""This is a Heart Attack! Your spy was caught in my rose garden, measuring the dimensions of my castle!""","Queen of Hearts","rose bush, garden",1,25,Accusation
+20,"The Queen of Spades raised an eyebrow. ""That was the Seven of Spades. He's a cartographer. I sent him to map the shifting boundaries after last month's earthquake.""","Queen of Spades","Unknown",1,25,Clarification
+21,"""A likely story!"" The Queen of Hearts raised her scepter. ""CARDS! ATTACK!""","Queen of Hearts","Unknown",1,11,Command
+22,"What followed was unlike any battle Alice had ever imagined. The Heart cards surged forward with wild, passionate abandon, while the Spade cards executed precise defensive maneuvers. Hearts threw themselves into battle with emotional fervor, while Spades calculated each move as if playing an elaborate chess game.","Alice","Unknown",0,46,Clash
+23,"""Curiouser and curiouser,"" murmured Alice, ducking as the Five of Hearts sailed over her head.","Alice","Unknown",1,15,Bewilderment
+24,"The Dormouse appeared beside her, yawning. ""They do this every hundred years or so. Hearts attack, Spades defend, everyone gets tired, and then they have tea.""","Dormouse","Unknown",1,24,History
+25,"""That doesn't sound so bad,"" Alice said.","Alice","Unknown",1,7,Relief
+26,"""Yes, but it's the Hatter's tea,"" the Dormouse replied with a shudder.","Dormouse, Mad Hatter","Unknown",1,13,Warning
+27,"As the battle raged, Alice noticed something odd. Despite the chaos, no card was actually harmed. When a Heart soldier collided with a Spade, they both simply bounced off each other, sometimes changing colors momentarily before returning to normal.","Alice","Unknown",0,39,Harmlessness
+28,"The White Rabbit hopped nervously between the battle lines. ""Your Majesties! Perhaps we should consult the rulebook?""","White Rabbit","Unknown",1,15,Mediation
+29,"Both Queens shouted in unison: ""THERE IS NO RULEBOOK!""","Queen of Hearts, Queen of Spades","Unknown",1,9,Unison
+30,"""Actually,"" said Alice, suddenly remembering, ""in my world, cards have rules. Hearts is a trick-taking game where the goal is to avoid taking tricks with hearts or the Queen of Spades.""","Alice, Queen of Spades","Unknown",1,32,Insight
+31,"Both monarchs froze and stared at her.","None","Unknown",0,7,Stunned
+32,"""Are you suggesting,"" the Queen of Hearts said slowly, ""that we're meant to AVOID each other?""","Queen of Hearts","Unknown",1,15,Realization
+33,"The Queen of Spades tapped her chin thoughtfully. ""The girl may have a point. Our kingdoms have always been strongest when we maintain our distance.""","Queen of Spades","Unknown",1,23,Agreement
+34,"Gradually, the fighting subsided. The card soldiers returned to their formations, looking somewhat relieved.","None","Unknown",0,15,De-escalation
+35,"""Well,"" huffed the Queen of Hearts, ""I suppose we could postpone the Heart Attack. For diplomatic reasons.""","Queen of Hearts","Unknown",1,17,Concession
+36,"""Indeed,"" agreed the Queen of Spades. ""Strategic withdrawal is sometimes the wisest course.""","Queen of Spades","Unknown",1,13,Strategy
+37,"As the two armies retreated to their respective territories, Alice found herself walking beside the Cheshire Cat once more.","Alice, Cheshire Cat","Unknown",0,19,Withdrawal
+38,"""Is that it?"" she asked. ""All that buildup for nothing?""","None","Unknown",1,11,Anticlimax
+39,"The cat's grin widened. ""In Wonderland, dear Alice, buildup IS the point. Did you expect something logical to happen? How disappointing that would be.""","Cheshire Cat, Alice","Wonderland",1,24,Philosophy
+40,"Alice had to admit he was right. A logical heart attack would have been a terrible end to her Wonderland adventure. Much better to have one where hearts attacked and nobody got hurt—except perhaps the rules of sense and reason.","Alice","Wonderland",0,39,Acceptance
+41,"And those, as anyone in Wonderland could tell you, were meant to be broken anyway.","None","Wonderland",0,15,Conclusion

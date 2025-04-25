@@ -1,0 +1,11 @@
+__pycache__
+.DS_store
+.secrets.toml
+
+chroma_db/*
+
+*.table.json
+~$*
+.qodo
+
+notes.md
