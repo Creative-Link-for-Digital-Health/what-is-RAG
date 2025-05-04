@@ -8,4 +8,7 @@ chroma_db/*
 ~$*
 .qodo
 
+*.schema.json
+*.table.json
+
 notes.md
