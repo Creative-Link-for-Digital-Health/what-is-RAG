@@ -67,6 +67,14 @@ conda env create -f environment.yml
 conda activate RAG-presentation
 ```
 
+#### 3. Add your Keys and Choose a Model
+
+```bash
+# Create a secrets file to store your keys and model choices locally
+cp .secrets.example.toml .secrets.toml
+
+# Comment out references to models and providers you are not using and save 
+```
 ## Funding and Support
 
 This presentation was created by the Creative Link for Advancing Digital Health [https://creative.ai.uky.edu/] team in collaboration with the Center for Applied Artificial Intelligence (CAAI)[https://caai.ai.uky.edu/]. Creative Link project is supported by the University of Kentucky Office of Vice President for Research Emerging Themes for Research Program.
